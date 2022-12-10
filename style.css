@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+}
+.home {
+  padding-top: 1rem;
+  background-color: #e2edff;
+}
+.team {
+  background-color: #e2edff;
+}
